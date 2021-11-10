@@ -1,0 +1,1 @@
+add_executable(BinarySearch "DSA/Self Learning/Searching/BinarySearch.c")
