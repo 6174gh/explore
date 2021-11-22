@@ -1,1 +1,1 @@
-add_executable(BinarySearch "DSA/Self Learning/Searching/BinarySearch.c")
+add_executable(hash "DSA/Self Learning/hashing/hash.c")
