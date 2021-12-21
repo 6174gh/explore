@@ -15,7 +15,7 @@ struct node *newNode(int data){
     return temp;
 }
 
-void maxElement(struct node *root,int data){
+void insertElement(struct node *root,int data){
     struct Queue *Q;
     you
 }

@@ -1,1 +1,1 @@
-add_executable(hash "DSA/Self Learning/hashing/hash.c")
+add_executable(kunal "DSA-AlGO/V Propel/kunal.c")
